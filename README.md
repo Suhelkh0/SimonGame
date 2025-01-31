@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ba8d9a04-f1a9-459e-aec0-d6adf861a255
 # Simon Game
 
 # 🎮 Simon Game
@@ -9,6 +11,8 @@
 
 🔗 ![alt text](https://suhelkh0.github.io/SimonGame/Simon_Video.mp4
 )
+
+https://github.com/user-attachments/assets/ddec9ff6-e7f0-4a21-9514-a7260acacfc7
 
 ---
 
