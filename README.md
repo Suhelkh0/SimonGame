@@ -1,7 +1,3 @@
-
-https://github.com/user-attachments/assets/ba8d9a04-f1a9-459e-aec0-d6adf861a255
-# Simon Game
-
 # 🎮 Simon Game
 
 **Simon Game** is a classic memory-based game where players must repeat a sequence of colors in the correct order. The game progressively gets harder as the sequence length increases.
