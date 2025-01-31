@@ -7,7 +7,7 @@
 🔗 **Live Demo**: [Simon Game](https://suhelkh0.github.io/SimonGame/
 )
 
-🔗 ![Video Game](https://suhelkh0.github.io/Simon_Video/
+🔗 ![alt text](https://suhelkh0.github.io/SimonGame/Simon_Video.mp4
 )
 
 ---
